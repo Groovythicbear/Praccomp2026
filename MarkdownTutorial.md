@@ -64,9 +64,16 @@ x <- 4^2
 ## Task Lists
 
 
-- [] this is an incomplete task
+- [ ] this is an incomplete task
 - [x] this is a complete task
 - [x] @mentions, #refs, [links], **formatting**, and <del>tags</del> and ~more formatting~
 - [x] list syntax required (ordered or unordered) 
+
+## Tables
+
+First header | Second header
+-------------|--------------
+Content column 1  row 1 | COntent column 2 Row 1
+COntent column 1 row 2 | Content column 2 Row 2
 
 
