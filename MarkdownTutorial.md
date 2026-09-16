@@ -43,3 +43,19 @@ http://brewerlab.net - automatic
 ## IMAGES
 
 ![GOODEST BOY](https://upload.wikimedia.org/wikipedia/commons/5/57/Red_wolf_%284531335218%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
+
+## BACKSLASH ESCAPES
+
+\*Literal asterasks\*
+
+## Fenced Code Block
+
+```
+echo "Hello"
+```
+
+- R example
+
+```r
+x <- 4^2
+```
