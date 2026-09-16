@@ -14,11 +14,11 @@ _This text will be italic_
 
 **This text will be bold**
 
-_This text will be bold**
+_This text will be bold_
 
 _You **can** combine them_
 
-##LISTS
+## LISTS
 
 unordered
 * Item 1
@@ -32,3 +32,11 @@ Ordered
 3. Item 3
 	* Item 3a
 	* Item 3b
+
+## LINkS
+
+http://brewerlab.net - automatic
+
+[Brewer Lab](http://brewerlab.net)
+
+
