@@ -59,3 +59,14 @@ echo "Hello"
 ```r
 x <- 4^2
 ```
+
+
+## Task Lists
+
+
+- [] this is an incomplete task
+- [x] this is a complete task
+- [x] @mentions, #refs, [links], **formatting**, and <del>tags</del> and ~more formatting~
+- [x] list syntax required (ordered or unordered) 
+
+
