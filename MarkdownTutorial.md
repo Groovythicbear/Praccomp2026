@@ -77,3 +77,10 @@ Content column 1  row 1 | COntent column 2 Row 1
 COntent column 1 row 2 | Content column 2 Row 2
 
 
+## Emoji
+
+:spider:
+:bat:
+:fart:
+
+
